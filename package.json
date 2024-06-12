@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://yasira2000.github.io/training-Nike",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -28,6 +29,6 @@
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4",
     "vite": "^5.2.0"
-  },
-  "homepage": "https://yasira2000.github.io/training-Nike"
+  }
+  
 }
